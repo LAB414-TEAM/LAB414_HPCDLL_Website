@@ -1,0 +1,242 @@
+{
+"M107": [
+    {
+      "src": "/static/M107/M107_1.jpg",
+      "name": "林佑昌",
+      "description": "ㄔㄐㄕ",
+      "thesis": "",
+      "thesisURL": "" 
+    },
+    {
+      "src": "/static/M107/M107_2.jpg",
+      "name": "蔡明諺",
+      "description": "左邊的...XDDD",
+      "thesis": "",
+      "thesisURL": "" 
+    },
+    {
+      "src": "/static/M107/M107_3.jpg",
+      "name": "莊昇達",
+      "description": "抓藥達人",
+      "thesis": "",
+      "thesisURL": ""             
+    },
+    {
+      "src": "/static/M107/M107_4.jpg",
+      "name": "彭冠偉",
+      "description": "文大很大",
+      "thesis": "",
+      "thesisURL": ""              
+    },
+    {
+      "src": "/static/M107/M107_5.jpg",
+      "name": "張韜略",
+      "description": "韜哥",
+      "thesis": "",
+      "thesisURL": ""             
+    },
+    {
+      "src": "/static/M107/M107_6.jpg",
+      "name": "楊斯宇",
+      "description": "bb",
+      "thesis": "",
+      "thesisURL": ""             
+    },
+    {
+      "src": "/static/M107/M107_7.jpg",
+      "name": "Vishnu Priy",
+      "description": "印度",
+      "thesis": "",
+      "thesisURL": ""             
+    },
+    {
+      "src": "/static/M107/M107_8.jpg",
+      "name": "Praveen Kuma",
+      "description": "印度",
+      "thesis": "",
+      "thesisURL": ""            
+    }
+],
+"M106": [
+    {
+      "src": "/static/M106/M106_1.jpg",
+      "name": "李偉弘",
+      "description": "神魔宅男x達人",
+      "thesis": "",
+      "thesisURL": ""           
+    },
+    {
+      "src": "/static/M106/M106_2.jpg",
+      "name": "曾國維",
+      "description": "政大咩頭",
+      "thesis": "",
+      "thesisURL": ""          
+    },
+    {
+      "src": "/static/M106/M106_3.jpg",
+      "name": "陳威倫",
+      "description": "工研打醬油",
+      "thesis": "",
+      "thesisURL": ""           
+    },
+    {
+      "src": "/static/M106/M106_4.jpg",
+      "name": "印翊誠",
+      "description": "Yin",
+      "thesis": "",
+      "thesisURL": ""          
+    },
+    {
+      "src": "/static/M106/M106_5.jpg",
+      "name": "江吉弘",
+      "description": "我要交有大肌肌的女朋友",
+      "thesis": "",
+      "thesisURL": ""         
+    },
+    {
+      "src": "/static/M106/M106_6.jpg",
+      "name": "張宏恩",
+      "description": "專業老司機",
+      "thesis": "",
+      "thesisURL": "" 
+    },
+    {
+      "src": "/static/M106/M106_7.jpg",
+      "name": "馬宇豐",
+      "description": "實驗室暖男",
+      "thesis": "",
+      "thesisURL": ""      
+    },
+    {
+      "src": "/static/M106/M106_8.jpg",
+      "name": "廖宜健",
+      "description": "課金大佬x三餐配一單",
+      "thesis": "",
+      "thesisURL": ""         
+
+    }
+  ],
+  "M105": [
+    {
+      "src": "/static/M105/M105_1.jpg",
+      "name": "王以文",
+      "description": "",
+      "thesis": "粒子群最佳化應用於逆合成孔徑雷達目標信號及影像產出模擬設計",
+      "thesisURL": "https://ir.lib.ntut.edu.tw/wSite/ct?ctNode=447&mp=ntut&xItem=70859"              
+    },
+    {
+      "src": "/static/M105/M105_2.jpg",
+      "name": "蕭志宇",
+      "description": "",
+      "thesis": "基於深度學習合成孔徑雷達影像船隻偵測",
+      "thesisURL": "https://ir.lib.ntut.edu.tw/wSite/ct?ctNode=447&mp=ntut&xItem=70355"              
+    },
+    {
+      "src": "/static/M105/M105_3.jpg",
+      "name": "邱立承",
+      "description": "",
+      "thesis": "基於GPU之粒子群優法應用於逆合成孔徑雷達目標信號及影像產出模擬設計",
+      "thesisURL": "https://ir.lib.ntut.edu.tw/wSite/ct?ctNode=447&mp=ntut&xItem=71308"              
+    },
+    {
+      "src": "/static/M105/M105_4.jpg",
+      "name": "任哲威",
+      "description": "",
+      "thesis": "基於粒子群優結合層次分析 ─ 非純度維度優先權特徵選取應用於 逆合成孔",
+      "thesisURL": "https://ir.lib.ntut.edu.tw/wSite/ct?ctNode=447&mp=ntut&xItem=71310"              
+    }                      ,
+    {
+      "src": "/static/M105/M105_5.jpg",
+      "name": "陳柏堯",
+      "description": "",
+      "thesis": "生成對抗網路應用於合成孔徑雷達影像之自動目標物辨識",
+      "thesisURL": "https://ir.lib.ntut.edu.tw/wSite/ct?ctNode=447&mp=ntut&xItem=70661"              
+    },
+    {
+      "src": "/static/M105/M105_6.jpg",
+      "name": "陳奕瑋",
+      "description": "",
+      "thesis": "",
+      "thesisURL": ""               
+    },
+    {
+      "src": "/static/M105/M105_7.jpg",
+      "name": "潘靖",
+      "description": "榮譽學長",
+      "thesis": "",
+      "thesisURL": ""              
+    }                                  
+  ],
+  "M104": [
+    {
+      "src": "/static/M104/M104_1.jpg",
+      "name": "鄭羽婕",
+      "description": "",
+      "thesis": "以平行模擬退火法與延遲感知為基礎的3D IC平面規劃",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=0" 
+    },
+    {
+      "src": "/static/M104/M104_2.jpg",
+      "name": "林政輝",
+      "description": "",
+      "thesis": "以 GPU實現高效能CIE-Lab 色彩空間轉換應用於全極化合成孔徑雷達影像",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=1" 
+    },
+    {
+      "src": "/static/M104/M104_3.jpg",
+      "name": "賴柔均",
+      "description": "",
+      "thesis": "基於互訊息適應值函數之粒子群優法應用於高光譜影像波段選取",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=2" 
+    },
+    {
+      "src": "/static/M104/M104_4.jpg",
+      "name": "謝正軒",
+      "description": "",
+      "thesis": "以GPU實現ORB演算法結合主成分分析法應用於UAV影像",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=3" 
+    },
+    {
+      "src": "/static/M104/M104_5.jpg",
+      "name": "袁顥",
+      "description": "",
+      "thesis": "基於粒子群優多屬性決策之熱點分析及非純度波段優先權方法應用於高維度",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=4" 
+    },
+    {
+      "src": "/static/M104/M104_6.jpg",
+      "name": "陳韋丞",
+      "description": "",
+      "thesis": "平行運算應用於干涉雷達全相位回復轉換法",
+      "thesisURL": "" 
+    },
+    {
+      "src": "/static/M104/M104_7.jpg",
+      "name": "游舒伃",
+      "description": "",
+      "thesis": "基於HOG、SVM及非極大值抑制邊緣偵測方法實現人體即時偵測於TX1 GPU嵌入式系",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=5" 
+    },
+    {
+      "src": "/static/M104/M104_8.jpg",
+      "name": "劉映辰",
+      "description": "",
+      "thesis": "基於GPU之SBR方法估算雷達截面積研究",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=6" 
+    },
+    {
+      "src": "/static/M104/M104_9.jpg",
+      "name": "洪浩銓",
+      "description": "",
+      "thesis": "改良GPU平行策略加速局部自適應Kriging於重建雷達地表變形圖",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=7" 
+    },                                                
+    {
+      "src": "/static/M104/M104_10.jpg",
+      "name": "陳琬婷",
+      "description": "",
+      "thesis": "基於複相關係數/互訊息的二維群聚與選取方法應用於高光譜影像波段選取",
+      "thesisURL": "https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=mw7Gsj/record?r1=1&h1=8" 
+    }        
+  ]
+}

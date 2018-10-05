@@ -90,10 +90,10 @@ export default {
               author: 'Chiung-Shen Ku, Kun-Shan Chen*, Pao-Chi Chang, and Yang-Lang Chang',
               publist: 'Remote Sensing',
               pdfURL: 'http://www.mdpi.com/2072-4292/10/9/1404',
-              videoURL: null,
+              videoURL: 'https://www.youtube.com/?gl=TW&hl=zh-tw',
               posterURL: null,
               isPDF: true,
-              isVideo: false,
+              isVideo: true,
               isPoster: false
             },
             {

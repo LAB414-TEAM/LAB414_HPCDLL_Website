@@ -18,8 +18,6 @@
                   <div>
                     <span class="uk-margin-small-right uk-icon" uk-icon="location">{{item.country}}</span>
                   </div>
-                  
-
                   <p>{{item.description}}</p>
               </div>
             </div>

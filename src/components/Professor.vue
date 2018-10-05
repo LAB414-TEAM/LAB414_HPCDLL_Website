@@ -24,20 +24,20 @@
       <!-- 教授頭像 -->
       <div class="uk-padding">
         <h1 class="uk-heading-line uk-text-center" style="font-family: Microsoft JhengHei; font-weight: bold;"><span>張陽郎教授</span></h1>
-        <img src="/static/professor1.JPG" alt="">
+        <img src="/static/Professor/professor1.JPG" alt="">
       </div>
       <!-- 教授基本資訊 -->
       <div class="uk-padding">
         <div class="uk-column-1-2 uk-column-divider uk-text-medium">
           <div class="uk-padding" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
-            <img src="/static/career.png" width="50" height="50" alt="">
+            <img src="/static/Professor/career.png" width="50" height="50" alt="">
             <h3 class="uk-padding-small">Positions Held</h3>
             <p>國立台北科技大學 電機系主任</p>
             <p>IEEE GRSS 台北分會主席</p>
             <p>第12屆ICSANE2016聯合主席</p>
           </div>
           <div class="uk-padding" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
-            <img src="/static/education.png" width="50" height="50" alt="">
+            <img src="/static/Professor/education.png" width="50" height="50" alt="">
             <h3 class="uk-padding-small">Education</h3>
             <p>國立中央大學資訊工程研究所博士 (2003)</p>
             <p>美國紐約雪城大學資訊工程研究所碩士 (1993)</p>
@@ -46,7 +46,7 @@
         </div>
         <div class="uk-column-1-2 uk-column-divider uk-text-medium">
           <div class="uk-padding" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
-            <img src="/static/profession.png" width="50" height="50" alt="">
+            <img src="/static/Professor/profession.png" width="50" height="50" alt="">
             <h3 class="uk-padding-small">Research Interests</h3>
             <p>高效能計算</p>
             <p>深度學習</p>
@@ -55,7 +55,7 @@
             <p>遙測影像</p>
           </div>
           <div class="uk-padding" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
-            <img src="/static/mail.png" width="50" height="50" alt="">
+            <img src="/static/Professor/mail.png" width="50" height="50" alt="">
             <h3 class="uk-padding-small">Contact</h3>
             <p>台北市忠孝東路三段1號綜合科館414-1室</p>
             <p>Email: ylchang@ntut.edu.tw</p>

@@ -37,7 +37,10 @@
               </div>
             </li>
             <li>
-              <a href="#">Active</a>
+              <router-link to="/Gallery">Gallery</router-link>
+            </li>
+            <li>
+              <router-link to="/Resource">Resource</router-link>
             </li>
             <li>
               <li>
@@ -95,7 +98,7 @@ export default {
     padding-right: 0px;
 }
 #app {
-  font-family: "Microsoft JhengHei", "Avenir", "Helvetica", "Arial", sans-serif;
+  font-family: "Microsoft JhengHei","Arial Black", "Avenir", "Helvetica", "Arial", sans-serif;
   text-align: center;
 }
 h3 {
