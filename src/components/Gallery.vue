@@ -50,7 +50,7 @@ class Album {
     this.category = category
     this.title = title
     this.date = date
-    this.cover = '/static/Gallery/' + category + '/' + title + '/1.jpg'
+    this.cover = '/static/Gallery/' + category + '/' + title + '/cover.jpg'
     this.numMax = numMax
     this.images = this.GetImages()
   }
@@ -84,8 +84,9 @@ export default {
     return {
       gy: new GY(
         [
-          new Album('學術活動', 'IEEE IGRSS Taipei Chapter 頒獎', '2018109', 22),
           new Album('學術活動', '日本學者短期訪問', '20180615', 23),
+          new Album('學術活動', 'IEEE IGRSS Taipei Chapter 頒獎', '2018109', 22),
+          new Album('學術活動', 'ICSANE 2016', '20161124', 25),
           new Album('實驗室聚會', '1062期末歡送會', '20170506', 1),
           new Album('Seminar', '金融科技Fintech區塊鏈介紹', '20170927', 2),
           new Album('Seminar', 'Pattern recoginition related topics', '20171018', 3),
