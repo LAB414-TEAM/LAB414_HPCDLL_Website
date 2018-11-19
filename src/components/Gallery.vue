@@ -84,9 +84,7 @@ export default {
     return {
       gy: new GY(
         [
-          new Album('學術活動', 'IEEE IGRSS Taipei Chapter 頒獎', '2018109', 22),
-          new Album('學術活動', '日本學者短期訪問', '20180615', 23),
-          new Album('實驗室聚會', '1062期末歡送會', '20170506', 1),
+          new Album('實驗室聚會', '1062期末歡送會', '20170506', 5),
           new Album('Seminar', '金融科技Fintech區塊鏈介紹', '20170927', 2),
           new Album('Seminar', 'Pattern recoginition related topics', '20171018', 3),
           new Album('Seminar', 'Educational strategies for learning English', '20171122', 4),
@@ -97,14 +95,9 @@ export default {
           new Album('Seminar', '輔助機器人', '20180321', 3),
           new Album('Seminar', '合成孔徑雷達', '20180328', 3),
           new Album('Seminar', '太空衛星科普 福衛三號為例', '20180411', 3),
-          new Album('Seminar', 'GPU在測繪上的應用', '20180502', 3),
-          new Album('105級口試', '蕭志宇', '201807xx', 11),
-          new Album('105級口試', '邱立承', '201807xx', 9),
-          new Album('105級口試', '任哲威', '201807xx', 9),
-          new Album('105級口試', '陳柏堯', '201807xx', 27),
-          new Album('105級口試', '王以文', '201807xx', 7)
+          new Album('Seminar', 'GPU在測繪上的應用', '20180502', 3)
         ],
-        ['學術活動', 'Seminar', '實驗室聚會', '105級口試']
+        ['實驗室聚會', 'Seminar']
       ),
       index: null,
       showAlbum: null
