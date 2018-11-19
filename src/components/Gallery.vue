@@ -50,7 +50,7 @@ class Album {
     this.category = category
     this.title = title
     this.date = date
-    this.cover = '/static/Gallery/' + category + '/' + title + '/1.jpg'
+    this.cover = '/static/Gallery/' + category + '/' + title + '/cover.jpg'
     this.numMax = numMax
     this.images = this.GetImages()
   }
