@@ -18,30 +18,31 @@
       </div>
       <!-- 實驗室介紹 -->
       <div class="uk-padding">
-        <div uk-scrollspy="cls: uk-animation-scale-down; repeat: true">
+        <div uk-scrollspy="cls: uk-animation-scale-down; repeat: false">
           <h1 class="introduction">INTRODUCTION</h1>
         </div>
         <hr class="uk-divider-icon">
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                   <img src="/static/Home/machineLearning.jpg" alt="">
               </div>
             </div>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">高效能運算</h3>
                   <div class="uk-text-left">
                     <p>一幅數位影像是指一影像在空間座標和亮度上都數位化後影像。數位影像可視為一二維矩陣。每一行和列值確定了影像中一個點，而其對應矩陣元素值即該像素點的顏色值。
                       人們對數位影像處理方法之興趣起源於兩個主要應用領域：改善影像資訊，使人能理解；及處理景物數據，使得機器能自動感知。影像處理技術已被廣泛應用，例如地理學家藉由計算機處理，
                       增強了影像對比度，或將亮度準位編碼成彩色，，研究由航空或衛星所拍攝得影像，判斷地層變化的狀況。</p>
+                    <p class="uk-text-bold">本實驗室與NVIDIA合作，成立 NVIDIA-Taipei Tech Embedded GPU Joint Lab. </p>
                   </div>
               </div>
             </div>
         </div>
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">深度學習</h3>
                   <div class="uk-text-left">
                     <p>本研究室在深度學習領域頗有心得，舉凡如使用通過選取候選區域，並對相應區域進行卷積運算的Faster R-CNN，乃至基於迴歸的目標檢測方法YOLO，皆有實作。
@@ -51,19 +52,19 @@
               </div>
             </div>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                   <img src="/static/Home/deepLearning.jpg" alt="">
               </div>
             </div>
         </div>
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                   <img src="https://gisgeography.com/wp-content/uploads/2014/10/100-remote-sensing-uses-logo-top-678x322.png" alt="">
               </div>
             </div>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">遙測圖像</h3>
                   <div class="uk-text-left">
                     <p>廣義是指用間接的手段來獲取目標狀態信息的方法。但一般多指從人造衛星或飛機對地面觀測，通過電磁波（包括光波）的傳播與接收，感知目標的某些特性並加以進行分析的技術，
@@ -76,7 +77,7 @@
         </div>
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">圖形識別</h3>
                   <div class="uk-text-left">
                     <p>LAB414致力於圖形識別演算法的開發及實現。
@@ -86,19 +87,19 @@
               </div>
             </div>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                   <img src="https://image.slidesharecdn.com/patternrecognition-140505095048-phpapp01/95/pattern-recognition-1-638.jpg?cb=1399283485" alt="">
               </div>
             </div>
         </div>
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                   <img src="/static/Home/image_processing.jpg" alt="">
               </div>
             </div>
             <div>
-              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+              <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">影像處理</h3>
                   <div class="uk-text-left">
                     <p>隨著電腦運算能力不斷加強，GPU技術提高，大數據成熟，人工智慧時代來臨

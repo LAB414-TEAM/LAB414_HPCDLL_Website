@@ -39,6 +39,12 @@ export default {
           name: '高岡峻一',
           country: 'Japan',
           description: 'xxx'
+        },
+        {
+          src: '/static/Phd/Phd_2.jpg',
+          name: 'Amare Anagaw',
+          country: '衣索比亞',
+          description: 'xxx'
         }
       ]
     }

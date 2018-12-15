@@ -11,11 +11,14 @@ import Master from '@/components/Master'
 import Publication from '@/components/Publication'
 import Resource from '@/components/Resource'
 import Gallery from '@/components/Gallery'
+import Youtube from '@/components/Youtube'
+
 
 Vue.use(VueRouter)
 Vue.use(VueResource)
 Vue.config.productionTip = false
 
+// 分頁路徑
 const routes = [
   {
     path: '/',
@@ -44,6 +47,10 @@ const routes = [
   {
     path: '/Gallery',
     component: Gallery
+  },
+  {
+    path: '/Youtube',
+    component: Youtube
   }
 ]
 
