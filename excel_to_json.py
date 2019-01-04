@@ -5,6 +5,7 @@ import sys
 
 ###  Example execute:
 ###  python read_excelFile save_jsonFile
+###  python example_format.xlsx example.json
 
 def get_Excel(excel):
     book = xlrd.open_workbook(excel) #打開excel
