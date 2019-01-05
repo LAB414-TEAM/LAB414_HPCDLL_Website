@@ -57,9 +57,9 @@
           <div class="uk-padding" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
             <img src="/static/Professor/mail.png" width="50" height="50" alt="">
             <h3 class="uk-padding-small">Contact</h3>
-            <p>台北市忠孝東路三段1號綜合科館414-1室</p>
             <p>Email: ylchang@ntut.edu.tw</p>
             <p>Voice: 886-2-2771-2171 ext.:2156 <br> Fax: 886-2-2731-7187</p>
+            <a class="uk-button uk-button-text" href="https://myweb.ntut.edu.tw/~ylchang/" target="_blank">個人網站</a>
           </div>
         </div>
       </div>
