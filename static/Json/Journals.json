@@ -1,0 +1,48 @@
+[
+    {
+      "Year": "2018",
+      "Papers": [
+        {
+          "src": "Journals_2018_1.JPG",
+          "title": "Imaging simulation for synthetic aperture radar: a full-wave approach",
+          "author": "Chiung-Shen Ku, Kun-Shan Chen*, Pao-Chi Chang, and Yang-Lang Chang",
+          "publist": "Remote Sensing",
+          "pdfURL": "http://www.mdpi.com/2072-4292/10/9/1404",
+          "videoURL": "https://www.youtube.com/?gl=TW&hl=zh-tw",
+          "posterURL": null,
+          "isPDF": true,
+          "isVideo": true,
+          "isPoster": false
+        },
+        {
+          "src": "Journals_2018_2.png",
+          "title": "Color Enhancement for Four-Component Decomposed Polarimetric SAR Image Based on a CIE-Lab Encoding",
+          "author": "Cheng-Yen Chiang, Kun-Shan Chen*, Chih-Yuan Chu, Yang-Lang Chang and Kuo-Chin Fan",
+          "publist": "Remote Sensing",
+          "pdfURL": "http://www.mdpi.com/2072-4292/10/9/1404",
+          "videoURL": null,
+          "posterURL": null,
+          "isPDF": true,
+          "isVideo": false,
+          "isPoster": false
+        }
+      ]
+    },
+    {
+      "Year": "2016",
+      "Papers": [
+        {
+          "src": "no_picture.jpg",
+          "title": "Layer-Aware 3D-IC Partitioning for Area-Overhead Reduction Considering the Power of Interconnections and Pads",
+          "author": "Yang-Lang Chang*, Chih-Yu Hsiao, Wei-Hong Lee, Amare Anagaw Ayele and Lena Chang",
+          "publist": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+          "pdfURL": null,
+          "videoURL": null,
+          "posterURL": null,
+          "isPDF": false,
+          "isVideo": false,
+          "isPoster": false
+        }
+      ]
+    }
+]
