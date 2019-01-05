@@ -33,7 +33,7 @@
               <router-link to="/Publication">Publication</router-link>
             </li>
             <li>
-              <a href="#modal-example"
+              <!-- <a href="#modal-example"
                   uk-toggle>Youtube</a>
               <div id="modal-example"
                     uk-modal>
@@ -44,8 +44,8 @@
                   <h2 class="uk-modal-title">施工中</h2>
                   <p>正在施工中，請耐心等候!!</p>
                 </div>
-              </div>
-              <!-- <router-link to="/Youtube">Youtube</router-link> -->
+              </div> -->
+              <router-link to="/Youtube">Youtube</router-link>
             </li>
             <li>
               <a href="#">People</a>
@@ -107,10 +107,11 @@
     </div>
     <router-view></router-view>
     <!-- footer -->
-    <div class="footer uk-container uk-light uk-padding uk-padding-remove-horizontal uk-background-secondary">
+    <div class="footer uk-container uk-light uk-padding uk-padding-remove-horizontal uk-padding-remove-bottom uk-background-secondary">
       <h3>國立臺北科技大學電機工程系 高效能計算與深度學習研究室</h3>
       <p>台北市忠孝東路三段1號綜合科館414-1室</p>
       <p>© NTUT High Performance Computing and Deep Learning Lab. 2018</p>
+      <p class="uk-article-meta"><a href="https://github.com/LAB414-TEAM/LAB414_HPCDLL_Website" class="uk-icon-button" uk-icon="github-alt" target="_blank" ></a> &nbsp; Design by <i>W.H Lee</i>, <i>Y.C Lin</i></p>
     </div>
   </div>
 </template>
