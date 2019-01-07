@@ -25,16 +25,14 @@
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
               <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
-                  <img src="/static/Home/machineLearning.jpg" alt="">
+                  <img src="/static/Home/highComputing.png" alt="">
               </div>
             </div>
             <div>
               <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">高效能運算</h3>
                   <div class="uk-text-left">
-                    <p>一幅數位影像是指一影像在空間座標和亮度上都數位化後影像。數位影像可視為一二維矩陣。每一行和列值確定了影像中一個點，而其對應矩陣元素值即該像素點的顏色值。
-                      人們對數位影像處理方法之興趣起源於兩個主要應用領域：改善影像資訊，使人能理解；及處理景物數據，使得機器能自動感知。影像處理技術已被廣泛應用，例如地理學家藉由計算機處理，
-                      增強了影像對比度，或將亮度準位編碼成彩色，，研究由航空或衛星所拍攝得影像，判斷地層變化的狀況。</p>
+                    <p>本研究室採用Nvida GPU 進行平行加速運算，並搭建伺服器機櫃以利於資料集建置。透過應用程式平行化機制，而能在有限或較短的時間內可以完成複雜或大量運算工作以大幅提高應用程式的處理能力。</p>
                     <p class="uk-text-bold">本實驗室與NVIDIA合作，成立 NVIDIA-Taipei Tech Embedded GPU Joint Lab. </p>
                   </div>
               </div>
@@ -53,14 +51,14 @@
             </div>
             <div>
               <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
-                  <img src="/static/Home/deepLearning.jpg" alt="">
+                <img data-src="/static/Home/deepLearning.png" width="450" alt="" uk-img>
               </div>
             </div>
         </div>
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
               <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
-                  <img src="https://gisgeography.com/wp-content/uploads/2014/10/100-remote-sensing-uses-logo-top-678x322.png" alt="">
+                <img data-src="/static/Home/satellite.png" width="450" alt="" uk-img>
               </div>
             </div>
             <div>
@@ -80,7 +78,7 @@
               <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">圖形識別</h3>
                   <div class="uk-text-left">
-                    <p>LAB414致力於圖形識別演算法的開發及實現。
+                    <p>本研究室致力於圖形識別演算法的開發及實現。
                     研究方向涵蓋計算機視覺(Computer Vision )、圖形識別(Pattern recognition)和機器學習(Machine Learning)等工具與理論
                     ，並應用於高光譜影像、雷達影像上。</p>
                   </div>
@@ -88,14 +86,14 @@
             </div>
             <div>
               <div uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
-                  <img src="https://image.slidesharecdn.com/patternrecognition-140505095048-phpapp01/95/pattern-recognition-1-638.jpg?cb=1399283485" alt="">
+                <img data-src="/static/Home/pattern.png" width="450" alt="" uk-img>
               </div>
             </div>
         </div>
         <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
             <div>
               <div uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
-                  <img src="/static/Home/image_processing.jpg" alt="">
+                  <img src="/static/Home/image_processing.png" alt="">
               </div>
             </div>
             <div>
@@ -103,7 +101,7 @@
                   <h3 class="uk-heading-bullet uk-padding-small uk-padding-remove-horizontal">影像處理</h3>
                   <div class="uk-text-left">
                     <p>隨著電腦運算能力不斷加強，GPU技術提高，大數據成熟，人工智慧時代來臨
-                    ，對於影像中進行處理、分析、量測，有著密不可分的關西。本實驗室目前利用深度學習進行影像處理，例如:物件偵測
+                    ，對於影像中進行處理、分析、量測，有著密不可分的關西。本研究室目前利用深度學習進行影像處理，例如:物件偵測
                     </p>
                   </div>
               </div>
