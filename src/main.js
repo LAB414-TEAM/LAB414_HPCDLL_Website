@@ -13,7 +13,6 @@ import Resource from '@/components/Resource'
 import Gallery from '@/components/Gallery'
 import Youtube from '@/components/Youtube'
 
-
 Vue.use(VueRouter)
 Vue.use(VueResource)
 Vue.config.productionTip = false

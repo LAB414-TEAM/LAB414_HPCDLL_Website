@@ -3,6 +3,7 @@
     <div class="uk-container uk-background-secondary uk-light">
       <nav uk-navbar>
         <div class="uk-position-center-left uk-padding uk-padding-remove-vertical">
+          <!-- <a href="/"><img data-src="/static/Logo.png" width="120" alt="" uk-img></a> -->
           <a class="uk-button uk-button-text"
              href="/"
              uk-icon="icon: bolt; ratio: 1.5"
