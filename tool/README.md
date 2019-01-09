@@ -5,7 +5,11 @@
 
 
 #### Excel to Json
-Can change Excel format to Json format
+How to change Excel file to Json file ?
+* Step 1:  
+Check Excel file format like the example_format.xlsx.
+* Step 2:   
+Use excel_to_json.py to change.
 ```
 python excel_to_json.py example_format.xlsx test.json
 ```
