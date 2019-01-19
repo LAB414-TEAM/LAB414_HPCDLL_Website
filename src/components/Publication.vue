@@ -24,7 +24,7 @@
                       <div class="uk-width-5-6 uk-position-relative">
                         <h4 class="paper-title">{{paper.title}}</h4>
                         <p class="paper-author">{{paper.author}}</p>
-                        <span class="publistJournal">{{paper.publist}}</span>
+                        <p class="publist">{{paper.publist}}</p>
                         <div class="uk-position-bottom-right">
                           <a class="uk-button button-color" target="_blank" :href="paper.pdfURL" v-show="paper.isPDF">PDF</a>
                           <a class="uk-button button-color" target="_blank" :href="paper.videoURL" v-show="paper.isVideo">Video</a>
@@ -56,7 +56,7 @@
                       <div class="uk-width-5-6 uk-position-relative">
                         <h4 class="paper-title">{{paper.title}}</h4>
                         <p class="paper-author">{{paper.author}}</p>
-                        <span class="publistJournal">{{paper.publist}}</span>
+                        <p class="publist">{{paper.publist}}</p>
                         <div class="uk-position-bottom-right">
                           <a class="uk-button button-color" target="_blank" :href="paper.pdfURL" v-show="paper.isPDF">PDF</a>
                           <a class="uk-button button-color" target="_blank" :href="paper.videoURL" v-show="paper.isVideo">Video</a>
@@ -118,7 +118,7 @@ export default {
   margin: 15px 0px 5px 0px;
   font-family: Arial;
 }
-.publistJournal {
+.publist {
   font-style: italic;
   font-size: 12pt;
   color: #888;

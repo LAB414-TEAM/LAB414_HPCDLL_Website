@@ -1,48 +1,385 @@
 [
     {
-      "Year": "2018",
-      "Papers": [
-        {
-          "src": "Journals_2018_1.JPG",
-          "title": "Imaging simulation for synthetic aperture radar: a full-wave approach",
-          "author": "Chiung-Shen Ku, Kun-Shan Chen*, Pao-Chi Chang, and Yang-Lang Chang",
-          "publist": "Remote Sensing",
-          "pdfURL": "http://www.mdpi.com/2072-4292/10/9/1404",
-          "videoURL": "https://www.youtube.com/?gl=TW&hl=zh-tw",
-          "posterURL": null,
-          "isPDF": true,
-          "isVideo": true,
-          "isPoster": false
-        },
-        {
-          "src": "Journals_2018_2.png",
-          "title": "Color Enhancement for Four-Component Decomposed Polarimetric SAR Image Based on a CIE-Lab Encoding",
-          "author": "Cheng-Yen Chiang, Kun-Shan Chen*, Chih-Yuan Chu, Yang-Lang Chang and Kuo-Chin Fan",
-          "publist": "Remote Sensing",
-          "pdfURL": "http://www.mdpi.com/2072-4292/10/9/1404",
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": true,
-          "isVideo": false,
-          "isPoster": false
-        }
-      ]
+        "Year": 2018,
+        "Papers": [
+            {
+                "src": "no_picture.jpg",
+                "title": "GPU Acceleration of Adaptive Local Kriging Applied to Retrieving Slant-Range Surface Motion Maps",
+                "author": "Wen-Yen Chang, Meng-Che Wu,\u00a0Yang-Lang Chang*, Sheng-Yung Shih and Bormin Huang",
+                "publist": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/document/8490590",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "A New Complement Na\u00efve Bayesian Approach for Biomedical Data Classification",
+                "author": "Amare Anagaw,\u00a0Yang-Lang Chang",
+                "publist": "Journal of Ambient Intelligence and Humanized Computing",
+                "pdfURL": "https://link.springer.com/article/10.1007/s12652-018-1160-1",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2018_01.png",
+                "title": "Imaging simulation for synthetic aperture radar: a full-wave approach",
+                "author": "Chiung-Shen Ku, Kun-Shan Chen*, Pao-Chi Chang, and\u00a0Yang-Lang Chang",
+                "publist": "Remote Sensing,\u00a0MDPI",
+                "pdfURL": "https://www.mdpi.com/2072-4292/10/9/1404",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2018_02.png",
+                "title": "Color Enhancement for Four-Component Decomposed Polarimetric SAR Image Based on a CIE-Lab Encoding",
+                "author": "Cheng-Yen Chiang, Kun-Shan Chen*, Chih-Yuan Chu,\u00a0Yang-Lang Chang\u00a0and Kuo-Chin Fan",
+                "publist": "\u00a0Remote Sensing,\u00a0MDPI",
+                "pdfURL": "https://www.mdpi.com/2072-4292/10/4/545",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
     },
     {
-      "Year": "2016",
-      "Papers": [
-        {
-          "src": "no_picture.jpg",
-          "title": "Layer-Aware 3D-IC Partitioning for Area-Overhead Reduction Considering the Power of Interconnections and Pads",
-          "author": "Yang-Lang Chang*, Chih-Yu Hsiao, Wei-Hong Lee, Amare Anagaw Ayele and Lena Chang",
-          "publist": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": false,
-          "isVideo": false,
-          "isPoster": false
-        }
-      ]
+        "Year": 2017,
+        "Papers": [
+            {
+                "src": "no_picture.jpg",
+                "title": "High performance nearest feature space classification approach to coastline change detection using multisource remote sensing data fusion",
+                "author": "Yang-Lang Chang, Lena Chang",
+                "publist": "Journal of Ocean and Underwater Technology",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "An efficient target detection for hyperspectral images by adaptive generalized sidelobe cancellation filtering",
+                "author": "Meng-Che Wu, Lena Chang, Yang-Lang Chang",
+                "publist": "Journal of Ocean and Underwater Technology",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "An efficient target detection for hyperspectral images by adaptive generalized sidelobe cancellation filtering",
+                "author": "Lena Chang, Yang-Lang Chang",
+                "publist": "Journal of Ocean and Underwater Technology",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2016,
+        "Papers": [
+            {
+                "src": "J_2016_01.png",
+                "title": "Layer-Aware 3D-IC Partitioning for Area-Overhead Reduction Considering the Power of Interconnections and Pads",
+                "author": "Yung-Hao LAI,\u00a0\u00a0Yang-Lang CHANG\u00a0\u00a0,Jyh-Perng FANG\u00a0,\u00a0Lena CHANG\u00a0,\u00a0Hirokazu KOBAYASHI\u00a0\u00a0",
+                "publist": "IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences\u00a0\u00a0\u00a0",
+                "pdfURL": "https://www.jstage.jst.go.jp/article/transfun/E99.A/6/E99.A_1206/_article",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2014,
+        "Papers": [
+            {
+                "src": "J_2014_01.PNG",
+                "title": "Multisource Data Fusion and Fisher Criterion-Based Nearest Feature Space Approach to Landslide Classification",
+                "author": "Yang-Lang Chang, Yi Chun Wang, Yi-Shiang Fu, Chin-Chuan Han, Jocelyn Chanussot, Bormin Huang",
+                "publist": " IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/document/6871324",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2014_02.PNG",
+                "title": "High-Performance Meshing Processing of Remote Sensing Data on Large Displays",
+                "author": "Tung-Ju Hsieh, Wei-Yao Chen, Che-Hao Chang, Yen-Lin Chen, Ming-Li Lin, Shih-Ching Yeh, Yang-Lang Chang and Bormin Huang",
+                "publist": " Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-8/issue-01/084796/High-performance-meshing-processing-of-remote-sensing-data-on-large/10.1117/1.JRS.8.084796.full?SSO=1",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2014_03.PNG",
+                "title": "Hyperspectral band selection based on parallel particle swarm optimization and impurity function band prioritization schemes",
+                "author": "Yang-Lang Chang, Jin-Nan Liu, Yen-Lin Chen, Wen-Yen Chang, Tung-Ju Hsieh and Bormin Huang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-8/issue-01/084798/Hyperspectral-band-selection-based-on-parallel-particle-swarm-optimization-and/10.1117/1.JRS.8.084798.full?SSO=1",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2014_04.PNG",
+                "title": "Ensemble Empirical Mode Decomposition Parameters Optimization for Spectral Distance Measurement in Hyperspectral Remote Sensing Data",
+                "author": "Hsuan Ren, Yung-Ling Wang, Min-Yu Huang, Yang-Lang Chang*, Hung-Ming Kao",
+                "publist": "Remote Sensing",
+                "pdfURL": "https://www.mdpi.com/2072-4292/6/3/2069/htm",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2014_05.PNG",
+                "title": "Hyperspectral Image Classification Using Nearest Feature Line Embedding Approach",
+                "author": "Yang-Lang Chang, Jin Nan Liu, Chin-Chuan Han*, and Ying-Nong Chen",
+                "publist": " IEEE Transactions on Geoscience and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6472286",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2011,
+        "Papers": [
+            {
+                "src": "J_2011_01.png",
+                "title": "Parallel positive Boolean function approach to classification of remote sensing images",
+                "author": "Yang-Lang Chang*, Tung-Ju Hsieh, Antonio Plaza, Yen-Lin Chen, Wen-Yew Liang, Jyh-Perng Fang, and Bormin Huang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-5/issue-1/051505/Parallel-positive-Boolean-function-approach-to-classification-of-remote-sensing/10.1117/1.3626866.full?SSO=1",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_02.png",
+                "title": "Digital signal processor-based three-dimensional wavelet error-resilient lossless compression of high-resolution spectrometer data",
+                "author": "Jiaji Wu, Tung-Ju Hsieh, Tao Li,\u00a0Yang-Lang Chang*, and Bormin Huang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-5/issue-1/051504/Digital-signal-processor-based-three-dimensional-wavelet-error-resilient-lossless/10.1117/1.3663955.full?SSO=1",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_03.png",
+                "title": "A Parallel Simulated Annealing Approach to Band Selection for High-Dimensional Remote Sensing Images",
+                "author": "Yang-Lang Chang*, Kun-Shan Chen, Bormin Huang, Wen-Yen Chang, Jon Atli Benediktsson, and Lena Chang",
+                "publist": "\u00a0IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/5954137",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_04.png",
+                "title": "Accelerating Regular LDPC Code Decoders on GPUs",
+                "author": "Cheng-Chun Chang,\u00a0Yang-Lang Chang*, Min-Yu Huang, and Bormin Huang",
+                "publist": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/5892906",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_05.png",
+                "title": "Group and Region Based Parallel Compression Method Using Signal Subspace Projection and Band Clustering for Hyperspectral Imagery",
+                "author": "Lena Chang,\u00a0Yang-Lang Chang*, Z. S. Tang, and Bormin Huang",
+                "publist": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/5976418",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_06.png",
+                "title": "Foreword to the Special Issue on High Performance Computing in Earth Observation and Remote Sensing",
+                "author": "Antonio Plaza, Qian Du,\u00a0Yang-Lang Chang, and Roger L. King",
+                "publist": "\u00a0IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/5981408",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_07.png",
+                "title": "High Performance Computing for Hyperspectral Remote Sensing",
+                "author": "Antonio Plaza*, Qian Du,\u00a0Yang-Lang Chang, and Roger L. King",
+                "publist": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/5678816",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_08.png",
+                "title": "SAR Image Simulation with Application to Target Recognition",
+                "author": "Yang-Lang Chang, Cheng-Yen Chiang, and Kun-Shan Chen",
+                "publist": "\u00a0Progress In Electromagnetics Research-PIER",
+                "pdfURL": "http://www.jpier.org/PIER/pier.php?paper=11061507",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_09.png",
+                "title": "Vision-Based Finger Detection, Tracking, and Event Identification Techniques for Multi-Touch Sensing and Display Systems",
+                "author": "Yen-Lin Chen, Wen-Yew Liang, Chuan-Yen Chiang, Tung-Ju Hsieh, Da-Cheng Lee, Shyan-Ming Yuan, and\u00a0Yang-Lang Chang",
+                "publist": "\u00a0Sensor",
+                "pdfURL": "https://www.mdpi.com/1424-8220/11/7/6868/htm",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2011_10.png",
+                "title": "A simulated annealing feature extraction approach for hyperspectral images",
+                "author": "Yang-Lang Chang",
+                "publist": "\u00a0Future Generation Computer Systems",
+                "pdfURL": "https://www.sciencedirect.com/science/article/pii/S0167739X10001512",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2010,
+        "Papers": [
+            {
+                "src": "J_2010_01.png",
+                "title": "Simulated annealing band selection approach for hyperspectral imagery",
+                "author": "Yang-Lang Chang*, Jyh Perng Fang, Wei-Lieh Hsu, Lena Chang, and Wen-Yen Chang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-4/issue-1/041767/Simulated-annealing-band-selection-approach-for-hyperspectral-imagery/10.1117/1.3502611.full?SSO=1&tab=ArticleLink",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2009,
+        "Papers": [
+            {
+                "src": "no_picture.jpg",
+                "title": "Parallel Computing of Aerial Image Registration on GPU",
+                "author": "T.-J. Hsieh, W.-Y. Liang, Y.-L. Chang, and J.-P. Fang, T.-H. Huang, and W.-S. Lao",
+                "publist": "Communication of Institute of Information and Computing Machinery",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Graphics Hardware Assisted Visualization of Field-Measured Earthquake Data Sets",
+                "author": "Yang-Lang Chang,\u00a0 T.-J. Hsieh, Y.-S. Yang, W.-Y. Liang, Y.-L. Chang, and J.-P. Fang, C.-Y. Yen, and H.-Y. Hsiao",
+                "publist": " Communication of Institute of Information and Computing Machinery",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "A Parallel Simulated Annealing approach for Floorplanning in VLSI,",
+                "author": "Jyh Perng Fang,\u00a0Yang-Lang Chang, Chih-Chia Chen, Wen-Yew Liang, Tung-Ju Hsieh, M. T. Satria, and Chin-Chuan Han",
+                "publist": " Lecture Notes in Computer Science",
+                "pdfURL": "https://link.springer.com/content/pdf/10.1007/978-3-642-03095-6.pdf#page=308",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "A GPU-Based Simulation of Tsunami Propagation and Inundation,",
+                "author": "Wen-Yew Liang, Tung-Ju Hsieh, Muhammad T. Satria,\u00a0Yang-Lang Chang, Jyh-Perng Fang, and Chin-Chuan Han",
+                "publist": " Lecture Notes in Computer Science",
+                "pdfURL": "https://link.springer.com/content/pdf/10.1007/978-3-642-03095-6.pdf#page=610",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Vision-based Monitoring Method Using Gray Relational Analysis",
+                "author": "Wei-Lieh Hsu*, Chun-Chien Hsiao,\u00a0Yang-Lang Chang, and Tsung-Lun Chen",
+                "publist": "\u00a0IET Computer Vision",
+                "pdfURL": "https://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2007.0045",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
     }
 ]

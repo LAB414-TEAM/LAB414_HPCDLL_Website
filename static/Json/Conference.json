@@ -1,120 +1,541 @@
 [
     {
-      "Year": "2018",
-      "Papers": [
-        {
-          "src": "no_picture.jpg",
-          "title": "Feature Synthesis and Target Classification for High-Resolution SAR Images",
-          "author": "Yang-Lang Chang*, Cheng-Yen Chiang, Sina Hadipour and Wen-Yen Chang",
-          "publist": "the International Conference on Space, Aeronautical and Navigational Electronics 2018 (ICSANE 2018)",
-          "pdfURL": 0.0,
-          "videoURL": 0.0,
-          "posterURL": 0.0,
-          "isPDF": 0.0,
-          "isVideo": 0.0,
-          "isPoster": 0.0
-        },
-        {
-          "src": "no_picture.jpg",
-          "title": "RCS Near-field to Far-field Transformation Estimation by Using Simple GTD Target Models",
-          "author": "Hirokazu Kobayashi, Shun-ichi Takaoka, Yang-Lang Chang",
-          "publist": "the International Conference on Space, Aeronautical and Navigational Electronics 2018 (ICSANE 2018)",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": false,
-          "isVideo": false,
-          "isPoster": false
-        },
-        {
-          "src": "no_picture.jpg",
-          "title": "Improved Point Source Spread Model for 3-Dimensional Radar Target",
-          "author": "Hirokazu Kobayashi, Shun-ichi Takaoka, Chih-Yuan Chu, Yang-Lang Chang",
-          "publist": "the International Conference on Space, Aeronautical and Navigational Electronics 2018 (ICSANE 2018)",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": false,
-          "isVideo": false,
-          "isPoster": false
-        },
-        {
-          "src": "no_picture.jpg",
-          "title": "Automatic Target Recognition based on Generative Adversarial Networks for Synthetic Aperture Radar Images",
-          "author": "Yang-Lang Chang, Bo-Yao Chen, Chih-Yuan Chu and Sina Hadipour",
-          "publist": "IEICE Workshops on SANE 2018 (SANE2018)",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": false,
-          "isVideo": false,
-          "isPoster": false
-        },
-        {
-          "src": "Conference_2018_1.jpg",
-          "title": "SAR IMAGE SHIP DETECTION BASED ON YOLOV2 DEEP LEARNING FRAMEWORK",
-          "author": "Yang-Lang Chang*, Chih-Yu Hsiao, Wei-Hong Lee, Amare Anagaw Ayele and Lena Chang",
-          "publist": "IEEE International Geoscience and Remote Sensing Symposium IGARSS2018",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": null,
-          "isVideo": false,
-          "isPoster": false
-        },
-        {
-          "src": "no_picture.jpg",
-          "title": "SIMULATION OF ISAR MOTION COMPENSATION FOR MOVING TARGETS BASED ON PARTICLE SWARM OPTIMIZATION ",
-          "author": "Cheng-Yen Chiang, Yang-Lang Chang*, Bo Yao Chen, Sina Hadipour, Yi Wen Wang, and Kuo-Chin Fan",
-          "publist": "IEEE International Geoscience and Remote Sensing Symposium IGARSS2018",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": false,
-          "isVideo": false,
-          "isPoster": false
-        },
-        {
-          "src": "no_picture.jpg",
-          "title": "GPU ACCELERATION OF UAV IMAGE SPLICING USING ORIENTED FAST AND ROTATED BRIEF COMBINED WITH PCA",
-          "author": "Chia-Cheng Yeh, Yang-Lang Chang, Pai-Hui Hsu and Cheng-Huan Hsien",
-          "publist": "IEEE International Geoscience and Remote Sensing Symposium IGARSS2018",
-          "pdfURL": null,
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": false,
-          "isVideo": false,
-          "isPoster": false
-        }
-      ]
+        "Year": 2018,
+        "Papers": [
+            {
+                "src": "no_picture.jpg",
+                "title": "Feature Synthesis and Target Classification for High-Resolution SAR Images",
+                "author": "Yang-Lang Chang*, Cheng-Yen Chiang, Sina Hadipour and Wen-Yen Chang",
+                "publist": "the International Conference on Space, Aeronautical and Navigational Electronics 2018 (ICSANE 2018)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "RCS Near-field to Far-field Transformation Estimation by Using Simple GTD Target Models",
+                "author": "Hirokazu Kobayashi, Shun-ichi Takaoka, Yang-Lang Chang, Chih-Yuan Chu",
+                "publist": "the International Conference on Space, Aeronautical and Navigational Electronics 2018 (ICSANE 2018)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Improved Point Source Spread Model for 3-Dimensional Radar Target",
+                "author": "Hirokazu Kobayashi, Shun-ichi Takaoka, Chih-Yuan Chu, Yang-Lang Chang",
+                "publist": "the International Conference on Space, Aeronautical and Navigational Electronics 2018 (ICSANE 2018)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Automatic Target Recognition based on Generative Adversarial Networks for Synthetic Aperture Radar Images",
+                "author": "Yang-Lang Chang, Bo-Yao Chen, Chih-Yuan Chu and Sina Hadipour",
+                "publist": "IEICE Workshops on SANE 2018 (SANE2018)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "SAR IMAGE SHIP DETECTION BASED ON YOLOV2 DEEP LEARNING FRAMEWORK",
+                "author": "Yang-Lang Chang*, Chih-Yu Hsiao, Wei-Hong Lee, Amare Anagaw Ayele and Lena Chang",
+                "publist": "in Proc. of\u00a0IEEE International Geoscience and Remote Sensing Symposium IGARSS2018",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "SIMULATION OF ISAR MOTION COMPENSATION FOR MOVING TARGETS BASED ON PARTICLE SWARM OPTIMIZATION",
+                "author": "Cheng-Yen Chiang, Yang-Lang Chang*, Bo Yao Chen, Sina Hadipour, Yi Wen Wang, and Kuo-Chin Fan",
+                "publist": "in Proc. of\u00a0IEEE International Geoscience and Remote Sensing Symposium IGARSS2018",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "GPU ACCELERATION OF UAV IMAGE SPLICING USING ORIENTED FAST AND ROTATED BRIEF COMBINED WITH PCA",
+                "author": "Chia-Cheng Yeh, Yang-Lang Chang, Pai-Hui Hsu and Cheng-Huan Hsien,",
+                "publist": "IEEE International Geoscience and Remote Sensing Symposium IGARSS2018",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "SHIP DETECTION BASED ON DEEP LEARNING FOR SAR IMAGERY",
+                "author": "Yang-Lang Chang*, Chih-Yu Hsiao, Wei-Hong Lee, Lena Chang, Meng-Che Wu",
+                "publist": "Proc. of\u00a0Astronautical Exploration Technology Workshop 2018\u00a0(AXTW2018)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "PSO Combined with Impurity Function Band Prioritization Feature Extraction and Analytic Hierarchy Process Approach to Target Detection Using Inverse Synthetic Aperture Radar Images",
+                "author": "Yang-Lang Chang*, Jhe-Wei Zen, Meng-Che Wu, Min-Yu Huang, I-Cheng Yin, Hong-En Chang",
+                "publist": "Proc. of\u00a0Astronautical Exploration Technology Workshop 2018\u00a0(AXTW2018)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
     },
     {
-      "Year": "2017",
-      "Papers": [
-        {
-          "src": "Conference_2017_1.JPG",
-          "title": "A MODIFIED ADAPTABLE NEAREST FEATURE SPACE CLASSIFIER FOR REMOTE SENSING IMAGES",
-          "author": "Yang-Lang Chang*, Lena Chang, Ming-Xiu Xu, Chihyuan Chu",
-          "publist": "IEEE International Geoscience and Remote Sensing Symposium IGARSS2017",
-          "pdfURL": "https://ieeexplore.ieee.org/document/8127687/",
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": true,
-          "isVideo": false,
-          "isPoster": false
-        },
-        {
-          "src": "Conference_2017_2.JPG",
-          "title": "IMPURITY FUNCTION BAND PRIORITIZATION BASED ON PARTICLE SWARM OPTIMIZATION AND GRAVITATIONAL SEARCH ALGORITHM FOR HYPERSPECTRAL IMAGES",
-          "author": "Yang-Lang Chang*, Lena Chang, Tzu-Wei Tseng, Chihyuan Chu",
-          "publist": "IEEE International Geoscience and Remote Sensing Symposium IGARSS2017",
-          "pdfURL": "https://ieeexplore.ieee.org/document/8127322/",
-          "videoURL": null,
-          "posterURL": null,
-          "isPDF": true,
-          "isVideo": false,
-          "isPoster": false
-        }
-      ]
+        "Year": 2017,
+        "Papers": [
+            {
+                "src": "C_2017_01.png",
+                "title": "A MODIFIED ADAPTABLE NEAREST FEATURE SPACE CLASSIFIER FOR REMOTE SENSING IMAGES",
+                "author": "Yang-Lang Chang*, Lena Chang, Ming-Xiu Xu, Chihyuan Chu",
+                "publist": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+                "pdfURL": "https://ieeexplore.ieee.org/document/8127687",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2017_02.png",
+                "title": "IMPURITY FUNCTION BAND PRIORITIZATION BASED ON PARTICLE SWARM OPTIMIZATION AND GRAVITATIONAL SEARCH ALGORITHM FOR HYPERSPECTRAL IMAGES",
+                "author": "Yang-Lang Chang*, Lena Chang, Tzu-Wei Tseng, Chihyuan Chu",
+                "publist": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+                "pdfURL": "https://ieeexplore.ieee.org/document/8127322",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2017_03.png",
+                "title": "Simulation of SAR Imaging: A Full-wave Approach",
+                "author": "Chiung-Shen Ku, Kun-Shan Chen, Pao-Chi Chang, and Yang-Lang Chang",
+                "publist": "2017 Progress in Electromagnetics Research Symposium (PIERS)",
+                "pdfURL": "https://www.mdpi.com/2072-4292/10/9/1404",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "SAR Image Segmentation Based Framework to Ship Detection",
+                "author": "Yang-Lang CHANG, Amare Anagaw AYELE, Lena CHANG*, Wei-Lin CHEN, Meng-Che Wu, and Chihyuan Chu",
+                "publist": "2017 International Conference on Space, Aeronautical and Navigational Electronics(ICSANE)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "HIERARCHICAL SAR IMAGE FEATURE-BASED FRAMEWORK FOR MARINE TARGET DETECTION",
+                "author": "Yang-Lang Chang, Lena Chang*, Meng-Che Wu, Amare Anagaw Ayele, Wei-Lin Chen",
+                "publist": "2017 Remote Sensing Satellite Technology Workshop ",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2016,
+        "Papers": [
+            {
+                "src": "C_2016_01.png",
+                "title": "Modified Nearest Feature Space Approach for High Dimensional Data Sets",
+                "author": "Yang-Lang Chang, Yung-Hao Lai, Tzu-Wei Tseng, and Jyh-Perng Fang",
+                "publist": "\u00a0the\u00a0International Conference on Space, Aeronautical and Navigational Electronics 2016\u00a0(ICSANE 2016)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_02.png",
+                "title": "Hybrid PSO and GSA-based Band Prioritization for Band Selection of High Dimensional Data Sets",
+                "author": "Yang-Lang Chang, Yung-Hao Lai, Ming-Xiu Xu, Jyh-Perng Fang, and Chihyuan Chu",
+                "publist": "the\u00a0International Conference on Space, Aeronautical and Navigational Electronics 2016\u00a0(ICSANE 2016)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_03.png",
+                "title": "GPU-BASED ADAPTIVE LOCAL KRIGING APPLIED TO RECOVERING SURFACE DEFORMATION",
+                "author": "Meng-Che Wu, Wen-Yen Chang, Yang-Lang Chang, Sheng-Yung Shih, Chihyuan Chu, and Bormin Huang",
+                "publist": "",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_04.png",
+                "title": "SAR IMAGING SIMULATION BASED ON THE EXTENDED TARGET MODEL",
+                "author": "Chiung-Shen Ku, Kun-Shan Chen, Saibun Tjuatja, Pao-Chi Chang, and Yang-Lang Chang",
+                "publist": "the\u00a0International Conference on Space, Aeronautical and Navigational Electronics 2016\u00a0(ICSANE 2016)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_05.png",
+                "title": "High-performance adaptive local kriging applied to recovering surface deformation associated with the fault zones",
+                "author": "Meng-Che Wu, Wen-Yen Chang, Yang-Lang Chang, Chihyuan Chu, Sheng-Yung Shih,",
+                "publist": "in Proc. of\u00a0IEEE International Geoscience and Remote Sensing Symposium IGARSS2016",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/7730571",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_06.png",
+                "title": "SAR scattering and imaging with focusing by an extended target modeL",
+                "author": "Chiung-Shen Ku, Kun-Shan Chen, Saibun Tjuatja, Pao-Chi Chang, Yang-Lang Chang",
+                "publist": "in Proc. of\u00a0IEEE International Geoscience and Remote Sensing Symposium IGARSS2016",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/7729276",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_07.png",
+                "title": "SAR imaging of randomly corrugated surfaces with irregular grooves",
+                "author": "Chiung-Shen Ku, Kun-Shan Chen, Peng Xu, Pao-Chi Chang, and Yang-Lang Chang",
+                "publist": "in Proc. of\u00a0Progress In Electromagnetics Research Symposium\u00a0(PIERS 2016)",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/7735533",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_08.png",
+                "title": "A new client-server architecture for real-time Micro-Movement ground based SAR system",
+                "author": "Chih-Yuan Chu, Chih-Tien Wang, Cheng-Yen Chiang, Voon Chet Koo, Yee Kit Chan, and Yang-Lang Chang",
+                "publist": "\u00a0in Proc. of\u00a0Progress In Electromagnetics Research Symposium\u00a0(PIERS 2016)",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/7735535",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2016_09.png",
+                "title": "Adaptive Nearest Feature Space Method for Remote Sensing Images Classification",
+                "author": "Yang-Lang Chang, Min-Yu Huang, and Tzu-Wei Tseng",
+                "publist": "\u00a0in Proc. of\u00a0Taiwan Geosciences Assembly\u00a0(TGA2016)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2014,
+        "Papers": [
+            {
+                "src": "C_2014_01.PNG",
+                "title": "Incenter-based nearest feature space method for hyperspectral image classification using GPU",
+                "author": "Yang-Lang Chang, Min-Yu Huang, Hsien-Tang Chao, Lena Chang, Jyh-Perng Fang, Tung-Ju Hsieh",
+                "publist": "The Fourth IEEE International Workshop on Parallel and Distributed Computing in Geoinformation and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/7097911",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2011,
+        "Papers": [
+            {
+                "src": "C_2011_01.png",
+                "title": "Accelerating the Kalman Filter on a GPU",
+                "author": "Min-Yu Huang, Shih-Chieh Wei, Bormin Huang and Yang-Lang Chang",
+                "publist": "\u00a0in Proc. of IEEE\u00a02011 IEEE International Workshop on Parallel and Distributed Computing in Remote Sensing\u00a0(IEEE PDCRS 2011)",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6121397",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2011_02.png",
+                "title": "Volume Data Numerical Integration and Differentiation Using CUDA",
+                "author": "Ming-Da Chen, Tung-Ju Hsieh, and Yang-Lang Chang",
+                "publist": "\u00a0in Proc. of IEEE\u00a02011 IEEE International Workshop on Parallel and Distributed Computing in Remote Sensing\u00a0(IEEE PDCRS 2011)",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6121399",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2011_03.png",
+                "title": "Efficient GPU implementation of tsunami simulation",
+                "author": "Muhammad T. Satria, Bormin Huang, Tung-Ju Hsieh, Yang-Lang Chang, Wen-Yew Liang",
+                "publist": "\u00a0in Proc. of SPIE\u00a08183, 81830Q,\u00a0High-Performance Computing in Remote Sensing Conference (8183)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2011_04.png",
+                "title": "Visual analytics of terrestrial lidar data for cliff erosion assessment on large displays",
+                "author": "Tung-Ju Hsieh Yang-Lang Chang and Bormin Huang",
+                "publist": "\u00a0in Proc. of SPIE,\u00a0Satellite Data Compression, Communications, and Processing VII (8157)",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2011_05.png",
+                "title": "Band selection for hyperspectral images based on impurity function",
+                "author": "Yang-Lang Chang, Bin-Feng Shu, Tung-Ju Hsieh, Chih-Yuan Chu, and Jyh-Perng Fang",
+                "publist": "\u00a0in Proc. of IEEE\u00a0International Geoscience and Remote Sensing Symposium\u00a0IGARSS '11",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6049686",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2011_06.png",
+                "title": "Design of GPU-based platform for LDPC decoder",
+                "author": "Cheng-Chun Chang, Min-Yu Huang and Yang-Lang Chang",
+                "publist": "\u00a0in Proc. of IEEE\u00a0International Geoscience and Remote Sensing Symposium\u00a0IGARSS '11",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6049957",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Developing Ubiquitous Multi-touch Sensing and Displaying Systems with Vision-Based Finger Detection and Event Identification Techniques",
+                "author": "Chuan-Yen Chiang, Yen-Lin Chen, Wen-Yew Liang, Tung-Ju Hsieh, Da-Cheng Lee, Shyan-Ming Yuan, and Yang-Lang Chang",
+                "publist": "in Proc. of IEEE, 2011 IEEE 13th International Conference on High Performance Computing and Communications (HPCC) in conjunction with The 8th International Conference on Ubiquitous Intelligence and Computing (UIC-2011)",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6063095",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2010,
+        "Papers": [
+            {
+                "src": "C_2010_01.png",
+                "title": "A Group and Region Based Compression Method for Hyperspectral Imagery",
+                "author": "Lena Chang , Ching-Min Cheng , Yang-Lang Chang , Bo-Wei Lee",
+                "publist": "2010 IEEE International Geoscience and Remote Sensing Symposium",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/5651624",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "C_2010_02.png",
+                "title": "Parallel K-dimensional tree classification based on semi-matroid structure for remote sensing applications",
+                "author": "Yang-Lang Chang, Zhi-Ming Chen, Jin-Nan Liu, Lena Chang, and Jyh Perng Fang",
+                "publist": "",
+                "pdfURL": "https://ir.lib.ntut.edu.tw/wSite/ct?ctNode=449&mp=ntut&xItem=55179",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Parallel GPU Implementation of K-way Tree Classification based on Semi-Greedy Structure Applied to Multisource Remote Sensing Images",
+                "author": "Yang-Lang Chang",
+                "publist": "Progress In Electromagnetics Research Symposium",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "An Implementation of KML Automatic Update Scheme",
+                "author": "Yang-Lang Chang, Jyh-Perng Fang , Jing-Sieng Lin and Guan-Rui Chen",
+                "publist": "2010 Remote Sensing Symposium Across Taiwan Strait",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Parallel Band Selection Based on Approximation Algorithm Applied to Multisource Remote Sensing Images",
+                "author": "Yang-Lang Chang, Jyh-Perng Fang , Jia-Bao Chang and Jin-Nan Liu",
+                "publist": "2010 Remote Sensing Symposium Across Taiwan Strait",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Processing LIDAR Data on High-Resolution Large Displays",
+                "author": "M.-L. Lin, T.-J. Hsieh, S.-C. Yeh, C.-H Chang. W.-Y. Chen, Y.-L. Chang, W.-Y. Liang",
+                "publist": "2010 Proceedings Computer Graphics Workshop",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 0.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2009,
+        "Papers": [
+            {
+                "src": "no_picture.jpg",
+                "title": "Band Selection for Hyperspectral Images Based on Parallel Particle Swarm Optimization Schemes",
+                "author": "Yang-Lang Chang, Hsuan Ren, Lena Chang, Jon Atli Benediktsson, Jyh-Perng Fang, Kun-Shan Chen",
+                "publist": "Invited paper in Proc. of IEEE International Geoscience and Remote Sensing Symposium IGARSS '09",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "K-way tree classification based on semi-greedy structure applied to multisource remote sensing images",
+                "author": "Yang-Lang Chang, Zhi-Ming Chen, Wei-Lieh Hsu, Hsuan Ren, Jyh-Perng Fang, Wen-Yew Liang, Tung-Ju Hsieh, Kun-Shan Chen",
+                "publist": " in Proc. of IEEE International Geoscience and Remote Sensing Symposium IGARSS '09",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "An Efficient Hierarchical Hyperspectral Image Classification Using Binary Quaternion-Moment-Preserving Thresholding Technique",
+                "author": "Lena Chang, Yang-Lang Chang, Ching-Min Cheng",
+                "publist": "in Proc. of IEEE International Geoscience and Remote Sensing Symposium IGARSS '09",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "High Performance Computing for Hyperspectral Image Analysis: Perspective and State-of-the-art",
+                "author": "Antoio Plaza, Qian Du, Yang-Lang Chang",
+                "publist": "Invited paper in Proc. of IEEE International Geoscience and Remote Sensing Symposium IGARSS '09",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "no_picture.jpg",
+                "title": "Real-Time Processing of Simplex Growing Algorithm",
+                "author": "Chao-Cheng Wu, Chein-I Chang, Hsuan Ren, Yang-Lang Chang",
+                "publist": "Invited paper in Proc. of IEEE International Geoscience and Remote Sensing Symposium IGARSS '09",
+                "pdfURL": 0.0,
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
     }
 ]
