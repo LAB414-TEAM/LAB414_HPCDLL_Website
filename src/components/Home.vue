@@ -6,6 +6,9 @@
         <ul class="uk-slideshow-items" >
           <li><img src="/static/Home/home_slides2.jpg" alt="" uk-cover></li>
           <li><img src="/static/Home/home_slides3.jpg" alt="" uk-cover></li>
+          <li><img src="/static/Home/active.jpg" alt="" uk-cover></li>
+          <li><img src="/static/Home/active1.jpg" alt="" uk-cover></li>
+          <li><img src="/static/Home/active2.jpg" alt="" uk-cover></li>
         </ul>
         <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
         <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
@@ -13,6 +16,9 @@
             <ul class="uk-dotnav">
                 <li uk-slideshow-item="0"><a href="#"></a></li>
                 <li uk-slideshow-item="1"><a href="#"></a></li>
+                <li uk-slideshow-item="2"><a href="#"></a></li>
+                <li uk-slideshow-item="3"><a href="#"></a></li>
+                <li uk-slideshow-item="4"><a href="#"></a></li>
             </ul>
         </div>
       </div>
