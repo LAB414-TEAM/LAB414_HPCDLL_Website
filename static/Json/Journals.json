@@ -10,7 +10,7 @@
                 "pdfURL": "https://ieeexplore.ieee.org/document/8490590",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             },
@@ -22,7 +22,7 @@
                 "pdfURL": "https://link.springer.com/article/10.1007/s12652-018-1160-1",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             },
@@ -34,7 +34,7 @@
                 "pdfURL": "https://www.mdpi.com/2072-4292/10/9/1404",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             },
@@ -46,7 +46,7 @@
                 "pdfURL": "https://www.mdpi.com/2072-4292/10/4/545",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             }
@@ -102,6 +102,59 @@
                 "author": "Yung-Hao LAI,\u00a0\u00a0Yang-Lang CHANG\u00a0\u00a0,Jyh-Perng FANG\u00a0,\u00a0Lena CHANG\u00a0,\u00a0Hirokazu KOBAYASHI\u00a0\u00a0",
                 "publist": "IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences\u00a0\u00a0\u00a0",
                 "pdfURL": "https://www.jstage.jst.go.jp/article/transfun/E99.A/6/E99.A_1206/_article",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2015,
+        "Papers": [
+            {
+                "src": "J_2015_01.png",
+                "title": "Efficient Parallel GPU Design on WRF Five-Layer Thermal Diffusion Scheme",
+                "author": "Melin Huang, Bormin Huang, Yang-Lang Chang, Jarno Mielikainen, Hung-Lung Allen Huang, and Mitchell D. Goldberg",
+                "publist": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/7110533",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2015_02.png",
+                "title": "Multisource Data Fusion and Fisher Criterion-Based Nearest Feature Space Approach to Landslide Classification",
+                "author": "Yang-Lang Chang*, Yi Chun Wang, Yi-Shiang Fu, Chin-Chuan Han, Jocelyn Chanussot, Bormin Huang",
+                "publist": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6871324",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2015_03.png",
+                "title": "Special Section Guest Editorial: High-Performance Computing in Applied Remote Sensing: Part 3",
+                "author": "Bormin Huang, Jiaji Wu and Yang-Lang Chang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-8/issue-1/084701/Special-Section-Guest-Editorial--High-Performance-Computing-in-Applied/10.1117/1.JRS.8.084701.full?SSO=1&tab=ArticleLink",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2015_04.png",
+                "title": "DISASTER SURVEILLANCE OF UNMANNED AERIAL VEHICLES\uff0dA CASE STUDY OF KAOHSIUNG GAS EXPLOSION",
+                "author": "Chia-Cheng Yeh, Pai-Hui Hsu, Tzu-Yin Chang,Yang-Lang Chang, Wen-Ray Su, and Jeng-Fen Bau",
+                "publist": "Journal of the Chinese Institute of Civil and Hydraulic Engineering",
+                "pdfURL": "http://www.airitilibrary.com/Publication/alDetailedMesh?docid=10155856-201509-201601070002-201601070002-223-229",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
                 "isPDF": 1.0,
@@ -167,6 +220,76 @@
                 "author": "Yang-Lang Chang, Jin Nan Liu, Chin-Chuan Han*, and Ying-Nong Chen",
                 "publist": " IEEE Transactions on Geoscience and Remote Sensing",
                 "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6472286",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2013,
+        "Papers": [
+            {
+                "src": "J_2013_01.png",
+                "title": "Hyperspectral Image Classification Using Nearest Feature Line Embedding Approach",
+                "author": "Yang-Lang Chang, Jin Nan Liu, Chin-Chuan Han*, and Ying-Nong Chen",
+                "publist": " IEEE Transactions on Geoscience and Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/document/6472286",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2013_02.PNG",
+                "title": "Parallel Tsunami Simulation and Visualization on Tiled Display Wall Using OpenGL Shading Language",
+                "author": "Tung-Ju Hsieh*, Wen-Yew Liang, Yang-Lang Chang, Muhammad T. Satria, and Bormin Huang",
+                "publist": "Journal of the Chinese Institute of Engineers",
+                "pdfURL": "https://www.tandfonline.com/doi/abs/10.1080/02533839.2012.727606",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            }
+        ]
+    },
+    {
+        "Year": 2012,
+        "Papers": [
+            {
+                "src": "J_2012_01.png",
+                "title": "High-performance visual analytics of terrestrial light detection and ranging data on large display wall",
+                "author": "Tung-Ju Hsieh*, Yang-Lang Chang, and Bormin Huang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-6/issue-01/061502/High-performance-visual-analytics-of-terrestrial-light-detection-and-ranging/10.1117/1.JRS.6.061502.full?SSO=1",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2012_02.png",
+                "title": "High-performance computing and visualization of earthquake simulations and ground-motion sensor network data",
+                "author": "Tung-Ju Hsieh*, Shiann-Jong Lee, Yuan-Sen Yang, Yang-Lang Chang, Bormin Huang, Cheng-Kai Chen, and Kwan-Liu Ma",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-6/issue-01/061501/High-performance-computing-and-visualization-of-earthquake-simulations-and-ground/10.1117/1.JRS.6.061501.full",
+                "videoURL": 0.0,
+                "posterURL": 0.0,
+                "isPDF": 1.0,
+                "isVideo": 0.0,
+                "isPoster": 0.0
+            },
+            {
+                "src": "J_2012_03.png",
+                "title": "GPU Acceleration of Tsunami Propagation Model",
+                "author": "Muhammad T. Satria, Bormin Huang*, Tung-Ju Hsieh, Yang-Lang Chang, and Wen-Yew Liang",
+                "publist": "Journal of Applied Remote Sensing",
+                "pdfURL": "https://ieeexplore.ieee.org/abstract/document/6217282",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
                 "isPDF": 1.0,
@@ -345,38 +468,38 @@
                 "isPoster": 0.0
             },
             {
-                "src": "no_picture.jpg",
-                "title": "A Parallel Simulated Annealing approach for Floorplanning in VLSI,",
+                "src": "J_2009_03.png",
+                "title": "A Parallel Simulated Annealing approach for Floorplanning in VLSI",
                 "author": "Jyh Perng Fang,\u00a0Yang-Lang Chang, Chih-Chia Chen, Wen-Yew Liang, Tung-Ju Hsieh, M. T. Satria, and Chin-Chuan Han",
                 "publist": " Lecture Notes in Computer Science",
                 "pdfURL": "https://link.springer.com/content/pdf/10.1007/978-3-642-03095-6.pdf#page=308",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             },
             {
-                "src": "no_picture.jpg",
-                "title": "A GPU-Based Simulation of Tsunami Propagation and Inundation,",
+                "src": "J_2009_04.png",
+                "title": "A GPU-Based Simulation of Tsunami Propagation and Inundation",
                 "author": "Wen-Yew Liang, Tung-Ju Hsieh, Muhammad T. Satria,\u00a0Yang-Lang Chang, Jyh-Perng Fang, and Chin-Chuan Han",
                 "publist": " Lecture Notes in Computer Science",
                 "pdfURL": "https://link.springer.com/content/pdf/10.1007/978-3-642-03095-6.pdf#page=610",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             },
             {
-                "src": "no_picture.jpg",
+                "src": "J_2009_05.png",
                 "title": "Vision-based Monitoring Method Using Gray Relational Analysis",
                 "author": "Wei-Lieh Hsu*, Chun-Chien Hsiao,\u00a0Yang-Lang Chang, and Tsung-Lun Chen",
                 "publist": "\u00a0IET Computer Vision",
                 "pdfURL": "https://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2007.0045",
                 "videoURL": 0.0,
                 "posterURL": 0.0,
-                "isPDF": 0.0,
+                "isPDF": 1.0,
                 "isVideo": 0.0,
                 "isPoster": 0.0
             }
