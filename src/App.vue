@@ -16,21 +16,6 @@
               <router-link to="/">Home</router-link>
             </li>
             <li>
-              <a href="#modal-example"
-                  uk-toggle>Research</a>
-              <div id="modal-example"
-                    uk-modal>
-                <div class="uk-modal-dialog uk-modal-body">
-                  <button class="uk-modal-close-default"
-                          type="button"
-                          uk-close></button>
-                  <h2 class="uk-modal-title">施工中</h2>
-                  <p>正在施工中，請耐心等候!!</p>
-                </div>
-              </div>
-              <!-- <router-link to="/Youtube">Youtube</router-link> -->
-            </li>
-            <li>
               <router-link to="/Publication">Publication</router-link>
             </li>
             <li>
@@ -54,6 +39,12 @@
                 <ul class="uk-nav uk-navbar-dropdown-nav">
                   <li>
                     <router-link to="/Professor">Professor</router-link>
+                    <div class="uk-navbar-dropdown">
+                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li>aa</li>
+                        <li>bb</li>
+                      </ul>
+                    </div>
                   </li>
                   <li>
                     <router-link to="/Phd">Ph.D</router-link>
@@ -136,5 +127,9 @@ h3 {
   margin: 0;
   font-family: "Microsoft JhengHei";
   font-weight: bold;
+}
+.menu{
+  z-index: 2000;
+  left: -1px;
 }
 </style>
