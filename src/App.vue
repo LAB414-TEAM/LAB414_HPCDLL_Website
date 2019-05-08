@@ -39,12 +39,6 @@
                 <ul class="uk-nav uk-navbar-dropdown-nav">
                   <li>
                     <router-link to="/Professor">Professor</router-link>
-                    <div class="uk-navbar-dropdown">
-                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                        <li>aa</li>
-                        <li>bb</li>
-                      </ul>
-                    </div>
                   </li>
                   <li>
                     <router-link to="/Phd">Ph.D</router-link>
